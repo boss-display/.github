@@ -1,5 +1,3 @@
-![alt text](https://raw.githubusercontent.com/boss-display/.github/161379efbf26b1f0d39b03b714974bd0e15a4443/assets/boss-logo-main.svg)
-
 ## About
 We design, develop, and build custom interactive exhibits for clients around the world. Through creativity, innovation, and reliability we have become a leader in our industry.
 
